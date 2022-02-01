@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Peter Kinnaman
-🔭 I’m a senior Economics major at Pitt
-🌱 I’m currently learning Python and Java 
+- 🔭 I’m a senior Economics major at Pitt
+- 🌱 I’m currently learning Python and Java 
 
 <!--
 **Peter-Kinnaman/Peter-Kinnaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
