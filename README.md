@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Peter Kinnaman
-- 🔭 I’m a senior Economics major at Pitt
+- 🔭 I'm an associate at Dev10
 - 🌱 I’m currently learning Python and Java 
 
 <!--
