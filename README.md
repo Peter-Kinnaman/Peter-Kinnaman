@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Peter Kinnaman
 - 🔭 I'm an associate at Dev10
-- 🌱 I’m currently learning Python and Java 
+- 🌱 I’m currently learning Java 
 - 😄 Pronouns: I'm non-binary any pronouns are fine
 <!--
 **Peter-Kinnaman/Peter-Kinnaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
