@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Peter Kinnaman
-- 🔭 I'm an associate at Dev10
+- 🔭 I'm a Platform Software Engineer at Aristocrat
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: I'm non-binary. Any pronouns are fine
 <!--
