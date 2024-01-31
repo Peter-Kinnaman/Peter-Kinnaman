@@ -1,7 +1,4 @@
-### Hi there 👋, I'm Peter Kinnaman
-- 🔭 I'm a Platform Software Engineer at Aristocrat
-- 🌱 I’m currently learning C#
-- 😄 Pronouns: I'm non-binary. Any pronouns are fine
+
 <!--
 **Peter-Kinnaman/Peter-Kinnaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
